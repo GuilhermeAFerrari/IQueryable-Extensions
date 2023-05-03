@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": 1,
+    "marca": "Chevrolet",
+    "modelo": "Agile LT 1.4 MPFI 8V flex"
+  },
+  {
+    "id": 2,
+    "marca": "Dodge",
+    "modelo": "Dakota Durango SLT 5.2 4x4 V8"
+  },
+  {
+    "id": 3,
+    "marca": "Fiat",
+    "modelo": "Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p"
+  },
+  {
+    "id": 4,
+    "marca": "Mitsubishi",
+    "modelo": "Eclipse GT 3.8 V6 267cv"
+  },
+  {
+    "id": 5,
+    "marca": "BMW",
+    "modelo": "F 700 GS"
+  },
+  {
+    "id": 6,
+    "marca": "SUZUKI",
+    "modelo": "TL 1000 S"
+  },
+  {
+    "id": 7,
+    "marca": "SUNDOWN",
+    "modelo": "STX MOTARD 200cc"
+  },
+  {
+    "id": 8,
+    "marca": "DUCATI",
+    "modelo": "MONSTER 900cc"
+  },
+  {
+    "id": 9,
+    "marca": "SCANIA",
+    "modelo": "G-360 A 4x2 3-Eixos/A 6x2 2p (dies.)(E5)"
+  },
+  {
+    "id": 10,
+    "marca": "HYUNDAI",
+    "modelo": "HD80 3.0 16V (diesel)(E5)"
+  },
+  {
+    "id": 11,
+    "marca": "VOLKSWAGEN",
+    "modelo": "10-160 E Delivery 2p (diesel)(E5)"
+  },
+  {
+    "id": 12,
+    "marca": "VOLVO",
+    "modelo": "FH 400 6x2 2p (diesel)"
+  }
+]
